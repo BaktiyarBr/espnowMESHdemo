@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/ESPIDF/esp-idf/projects/projectespnowmeshtest/build/CMakeFiles/bootloader
+D:/ESPIDF/esp-idf/projects/projectespnowmeshtest/build/CMakeFiles/bootloader.rule
+D:/ESPIDF/esp-idf/projects/projectespnowmeshtest/build/CMakeFiles/bootloader-complete.rule
+D:/ESPIDF/esp-idf/projects/projectespnowmeshtest/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/ESPIDF/esp-idf/projects/projectespnowmeshtest/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/ESPIDF/esp-idf/projects/projectespnowmeshtest/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/ESPIDF/esp-idf/projects/projectespnowmeshtest/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/ESPIDF/esp-idf/projects/projectespnowmeshtest/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/ESPIDF/esp-idf/projects/projectespnowmeshtest/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/ESPIDF/esp-idf/projects/projectespnowmeshtest/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
